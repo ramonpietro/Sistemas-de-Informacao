@@ -27,10 +27,10 @@ public class Main
 		System.out.println("Nome: " + c1.getNome());
 		System.out.println("Votos: " + c1.getVotos());
 		
-	    System.out.println();
+	    	System.out.println();
 	    
-	    System.out.println(c2);
-	    System.out.println("Candidato #2");
+	    	System.out.println(c2);
+	    	System.out.println("Candidato #2");
 		System.out.println("Numero: " + c2.getNumero());
 		System.out.println("Nome: " + c2.getNome());
 		System.out.println("Votos: " + c2.getVotos());
