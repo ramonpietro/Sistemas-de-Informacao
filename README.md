@@ -1,2 +1,2 @@
 # Programacao Orientada a Objetos
-📚 - Repositório voltado para as atividades dos estudos na matéria de POO.
+📚 - Repositório voltado para as atividades na matéria de POO.
