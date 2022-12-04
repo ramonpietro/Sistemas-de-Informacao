@@ -1,2 +1,2 @@
 # Sistemas de Informação
-📚 - Material desenvovido durante o curso de Sistemas de Informação
+📚 - Material desenvolvido durante o curso de Sistemas de Informação
