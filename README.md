@@ -1,2 +1,2 @@
-# Programacao Orientada a Objetos
-📚 - Repositório voltado para as atividades na matéria de POO.
+# Sistemas de Informação
+📚 - Material desenvovido durante o curso de Sistemas de Informação
